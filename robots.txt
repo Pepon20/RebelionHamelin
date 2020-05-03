@@ -1,0 +1,4 @@
+Sitemap: https://pepon20.github.io/RebelionHamelin/sitemapindex.xml
+
+User-Agent: *
+Host: pepon20.github.io
