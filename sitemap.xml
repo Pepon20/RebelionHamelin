@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+ <url>
+  <loc>https://pepon20.github.io/RebelionHamelin/</loc>
+  <lastmod>2020-05-03T23:02:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://pepon20.github.io/RebelionHamelin/archive.html</loc>
+  <lastmod>2020-05-03T23:03:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://pepon20.github.io/RebelionHamelin/categories/</loc>
+  <lastmod>2020-05-03T22:51:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://pepon20.github.io/RebelionHamelin/galleries/</loc>
+  <lastmod>2020-05-03T22:51:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://pepon20.github.io/RebelionHamelin/listings/</loc>
+  <lastmod>2020-05-03T22:51:00Z</lastmod>
+ </url>
+</urlset>
